@@ -4,10 +4,10 @@ This calculator currently is discontinued.
 # Showing the app in dark mode/light mode
 
 ## Dark mode
-<img src="https://imgur.com/CMibinI.png" width=500 height=500 /> 
+<img src="https://imgur.com/CMibinI.png" width=500 height=700 /> 
 
 ## Light mode
-<img src="https://imgur.com/TEYpVlz.png" width=500 height=500 /> 
+<img src="https://imgur.com/TEYpVlz.png" width=500 height=700 /> 
 
 # The app making a calculate
 
