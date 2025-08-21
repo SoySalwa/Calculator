@@ -1,6 +1,7 @@
 # About the App
 This calculator currently is discontinued.
 
+Please look the calculator developing in C++ | [Calculadora](https://github.com/SoySalwa/Calculator-Cpp)
 # Showing the app in dark mode/light mode
 
 ## Dark mode
